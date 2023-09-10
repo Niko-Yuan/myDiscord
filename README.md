@@ -1,8 +1,9 @@
 # Fullstack myDiscord: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
 
 ## Demo
-- **URL**: [myDiscord Demo](https://mydiscord-production.up.railway.app)
-- **Demo Email ID**: demoUser@gmail.com
+- **Project Demo**: [https://mydiscord-production.up.railway.app](https://mydiscord-production.up.railway.app)
+- **Video Demo**: [https://youtu.be/4Hn56YsS2RQ](https://youtu.be/4Hn56YsS2RQ)
+- **Demo Email ID**: demouser@gmail.com
 - **Demo Password**: demoUser
 
 ## Features
@@ -24,6 +25,9 @@
 - ORM using Prisma
 - MySQL database using Planetscale
 - Authentication with Clerk
+
+## Project Screenshot
+![Project Screenshot](/public/screenshot.png)
 
 ## How to Build
 
